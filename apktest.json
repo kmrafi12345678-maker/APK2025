@@ -22,7 +22,7 @@
     "adminUrl": "https://t.me/your_channel"
   },
   "keys": {
-    "VIP-USER": {
+    "VIP-USER": {KMRAFI
       "expiry": "2025-12-31",
       "interval": "1week",
       "toast": "Welcome back, VIP Legend! 👑"
