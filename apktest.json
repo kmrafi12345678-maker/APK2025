@@ -1,12 +1,12 @@
 {
   "config": {
     "country": "India",
-    "updateAvailable": false,
+    "updateAvailable": true,
     "themeColor": "#8e44ad",
     "textColor": "#ffffff"
   },
   "loginDialog": {
-    "title": "Welcome To DPMods",
+    "title": "Welcome To GB X TEAM",
     "subtitle": "If you don't have a key, contact Admin. Otherwise, enter your key and press Login.",
     "loginButtonText": "Login",
     "adminButtonText": "Get Key",
@@ -22,7 +22,7 @@
     "adminUrl": "https://t.me/your_channel"
   },
   "keys": {
-    "VIP-USER": {KMRAFI
+    "VIP-USER": {
       "expiry": "2025-12-31",
       "interval": "1week",
       "toast": "Welcome back, VIP Legend! 👑"
